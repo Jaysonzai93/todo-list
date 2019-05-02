@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { getList, addToList, deleteItem, updateItem } from '.ListFunctions'
+import { getList, addToList, deleteItem, updateItem } from './ListFunctions'
 
 class List extends Component {
     constructor() {
